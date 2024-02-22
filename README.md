@@ -1,6 +1,6 @@
 # Pointeur
 
-<img src="https://github.com/TheRake66/Pointeur/blob/main/logo.png">
+<img src="https://github.com/TheRake66/Pointeur/blob/main/curseur.png">
 
 Copie une position du pointeur sur l'écran dans le presse-papiers.
 

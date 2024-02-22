@@ -5,8 +5,8 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("Copie une position du pointeur sur l'écran dans le presse papier.")]
-[assembly: AssemblyDescription("Copie une position du pointeur sur l'écran dans le presse papier.")]
+[assembly: AssemblyTitle("Copie une position du pointeur sur l'écran dans le presse-papiers.")]
+[assembly: AssemblyDescription("Copie une position du pointeur sur l'écran dans le presse-papiers.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Thibault BUSTOS (TheRake66)")]
 [assembly: AssemblyProduct("Pointeur")]

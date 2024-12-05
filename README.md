@@ -1,15 +1,33 @@
+<div align="center">
+    <br>
+    <img src="./logo.png" alt="Pointeur" width=100>
+    <br>
+    <br>
+    <a href="./Pointeur.exe" target="_blank">
+        <b>• Télécharger •</b>
+    </a>
+    <br>
+    <br>
+    <img src="https://img.shields.io/badge/version-1.0.1.0-blue" alt="Version 1.0.1.0" >
+    <img src="https://img.shields.io/badge/platform-Windows-brightgreen" alt="Platform">
+    <img src="https://img.shields.io/badge/License-NonCommercial-red" alt="License: Non-Commercial">
+    <img src="https://img.shields.io/github/stars/TheRake66/Pointeur" alt="GitHub stars">
+    <br>
+    <br>
+</div>
+
 # Pointeur
 
-<img src="https://github.com/TheRake66/Pointeur/blob/main/curseur.png">
-
-Copie une position du pointeur sur l'écran dans le presse-papiers.
+ Copie une position du pointeur sur l'écran dans le presse papier.
 
 ## Comment ça marche ?
 
-Téléchargez « Pointeur.exe » sur ce <a href="https://github.com/TheRake66/Pointeur/releases/">lien</a>.
+ Téléchargez « Pointeur.exe » sur ce [lien](./Pointeur.exe).
 
-Lancez Pointeur.exe puis cliquez à l'endroit souhaité. La position se mettra automatiquement dans le presse-papiers.
+ Lancez Pointeur.exe puis cliquez à l'endroit souhaité. La position se mettra automatiquement dans le presse-papiers.
 
-## Plus d'informations
+## License and Usage Restrictions
 
-Ce programme a été écrit en C#.
+ This project is licensed under a custom license that **prohibits commercial use**.
+
+ For more details, see the [LICENSE](./LICENSE) file.
